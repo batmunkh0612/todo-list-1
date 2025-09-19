@@ -4,7 +4,7 @@ import { useState } from "react";
 const Home = () => {
 const mock =   [
   {
-  q: "react gej yu be ?",
+  q: "react gej yu be ? hhaha",
   a: ["react", "next", "tailwind", "typescript"],
   correct: "react",
 },
